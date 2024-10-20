@@ -1,0 +1,11 @@
+[timestart] 0
+[size] 1439 721
+*-19.000000 24000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 165
+[sst_expanded] 1
+[sst_vpaned_height] 186
+@88029
+tf_sin_gen_tb.y
+tf_sin_gen_tb.u
+tf_sin_gen_tb.rst_n
